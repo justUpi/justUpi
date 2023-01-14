@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning HTML, CSS, and JavaScrip
 - 💞️ I’m looking to collaborate on expert
-- 📫 u can contact me on gmail ibnu.mukmin23@gmail.com
+- 📫 u can contact me on gmail upijangkung12@gmail.com
 
 <!---
 justUpi/justUpi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
